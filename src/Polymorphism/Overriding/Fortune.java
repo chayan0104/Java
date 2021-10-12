@@ -1,4 +1,4 @@
-package Encapsulation.Overriding;
+package Polymorphism.Overriding;
 
 public class Fortune {
     public void property(){

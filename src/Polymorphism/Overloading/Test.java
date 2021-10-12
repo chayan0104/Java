@@ -1,4 +1,4 @@
-package Encapsulation.Overloading;
+package Polymorphism.Overloading;
 //same method with different parameter
 public class Test {
     public void m1(StringBuffer sb){
