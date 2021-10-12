@@ -1,4 +1,4 @@
-package Inheritance;
+package Inheritance.Is_A;
 
 public class Doc {
     void DocDetails(){
@@ -14,6 +14,6 @@ class Hospital{
     public static void main(String[] args) {
         Doc.Surgeon s = new Doc.Surgeon();
         s.DocDetails();
-        s.DocDetails();
+        s.SurgeDetails();
     }
 }
