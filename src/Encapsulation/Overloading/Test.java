@@ -1,5 +1,5 @@
 package Encapsulation.Overloading;
-
+//same method with different parameter
 public class Test {
     public void m1(StringBuffer sb){
         System.out.println("string buffer");
