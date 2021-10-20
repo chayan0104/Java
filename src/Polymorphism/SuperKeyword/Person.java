@@ -22,7 +22,7 @@ class Employee extends Person{
 
 class Test3{
     public static void main(String[] args) {
-        Employee E = new Employee(1,"Anki",45000f);
+        Employee E = new Employee(1,"Ankit",45000f);
         E.display();
     }
 }
