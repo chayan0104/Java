@@ -1,4 +1,4 @@
-package Polymorphism.SuperKeyword;
+package OOPS.Polymorphism.SuperKeyword;
 
 public class Animal2 {
     void eat() {

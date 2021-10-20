@@ -1,4 +1,4 @@
-package Polymorphism.Overloading;
+package OOPS.Polymorphism.Overloading;
 //changing the no of arguments
 class NoOfArgument {
     static int add(int a,int b){ //1st method with 2 argument

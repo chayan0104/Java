@@ -1,4 +1,4 @@
-package Polymorphism.Overriding;
+package OOPS.Polymorphism.Overriding;
 
 public class Fortune {
     public void property(){

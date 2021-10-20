@@ -1,4 +1,4 @@
-package Inheritance.Has_A;
+package OOPS.Inheritance.Has_A;
 
 public class Address {
     String city;

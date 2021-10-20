@@ -1,4 +1,4 @@
-package Abstraction.AbstractClass;
+package OOPS.Abstraction.AbstractClass;
 
 public abstract class Test {
     public abstract void m1();// no body in abstract

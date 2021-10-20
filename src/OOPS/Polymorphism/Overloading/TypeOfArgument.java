@@ -1,4 +1,4 @@
-package Polymorphism.Overloading;
+package OOPS.Polymorphism.Overloading;
 
 public class TypeOfArgument {
     static int m1(int a, int b){

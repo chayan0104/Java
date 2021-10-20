@@ -1,4 +1,4 @@
-package Abstraction.AbstractMethod;
+package OOPS.Abstraction.AbstractMethod;
 
 // always need to assign abstract keyword for abstract method
 public  abstract class Fruit {

@@ -1,4 +1,4 @@
-package Polymorphism.Overloading;
+package OOPS.Polymorphism.Overloading;
 //same method with different parameter
 public class Test {
     public void m1(StringBuffer sb){

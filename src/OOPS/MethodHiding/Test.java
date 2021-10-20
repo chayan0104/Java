@@ -1,4 +1,4 @@
-package MethodHiding;
+package OOPS.MethodHiding;
 //same as overriding with Static method.
 
 public class Test {

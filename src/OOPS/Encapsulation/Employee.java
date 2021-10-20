@@ -1,6 +1,4 @@
-package Encapsulation;
-
-import javax.sound.midi.Soundbank;
+package OOPS.Encapsulation;
 
 public class Employee {
     private String name;

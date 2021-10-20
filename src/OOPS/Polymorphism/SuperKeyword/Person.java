@@ -1,4 +1,4 @@
-package Polymorphism.SuperKeyword;
+package OOPS.Polymorphism.SuperKeyword;
 
 public class Person {
     int id;

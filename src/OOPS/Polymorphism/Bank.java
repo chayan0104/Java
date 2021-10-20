@@ -1,5 +1,5 @@
-package Polymorphism;
-import javax.sound.midi.Soundbank;
+package OOPS.Polymorphism;
+
 public interface Bank {
     float interestRate();
 }

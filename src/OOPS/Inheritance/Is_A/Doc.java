@@ -1,4 +1,4 @@
-package Inheritance.Is_A;
+package OOPS.Inheritance.Is_A;
 
 public class Doc {
     void DocDetails(){

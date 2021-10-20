@@ -1,4 +1,4 @@
-package Polymorphism.SuperKeyword;
+package OOPS.Polymorphism.SuperKeyword;
 //direct reference
 public class Animal {
     String color ="white";
