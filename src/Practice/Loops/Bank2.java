@@ -26,7 +26,7 @@ public class Bank2 {
 
                 }
                 else{
-                    System.out.println("You got money: "+money);
+                     System.out.println("You got money: "+money);
 
                 }
            }
