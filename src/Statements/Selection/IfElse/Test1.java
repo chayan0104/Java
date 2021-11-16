@@ -1,4 +1,4 @@
-package Statements.IfElse;
+package Statements.Selection.IfElse;
 
 public class Test1 {
     public static void main(String[] args)
