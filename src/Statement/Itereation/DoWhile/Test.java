@@ -1,4 +1,4 @@
-package Statements.Itereation.DoWhile;
+package Statement.Itereation.DoWhile;
 
 public class Test {
         public static void main(String[] args)

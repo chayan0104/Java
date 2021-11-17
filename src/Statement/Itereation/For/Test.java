@@ -1,4 +1,4 @@
-package Statements.Itereation.For;
+package Statement.Itereation.For;
 
 public class Test {
     public static void main(String[] args)

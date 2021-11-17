@@ -1,4 +1,4 @@
-package Statements.Transfer.Continue;
+package Statement.Transfer.Continue;
 
 public class Test {
     public static void main(String[] args)

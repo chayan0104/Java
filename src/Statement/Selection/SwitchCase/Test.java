@@ -1,4 +1,4 @@
-package Statements.Selection.SwitchCase;
+package Statement.Selection.SwitchCase;
 //Duplicate is not allowed in Switch case
 public class Test {
     public static void main(String[] args)
